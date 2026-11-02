@@ -16,7 +16,7 @@ For data storage, we utilize MongoDB, which allows for flexible and efficient ha
 
 ## Demo video
 
-https://github.com/AdeshGhadage/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9a06ac0966af
+https://github.com/Dipanshu1638/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9a06ac0966af
 
 ## Installation
 
@@ -25,7 +25,7 @@ https://github.com/AdeshGhadage/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/AdeshGhadage/Chess.git
+    git clone https://github.com/Dipanshu1638/ChessMaster.git
     ```
 
 2. **Start register.html file using live server:**
@@ -38,7 +38,7 @@ https://github.com/AdeshGhadage/Chess/assets/110734052/3fc62162-8f56-4244-bec5-9
 1. **Clone the backend repository:**
 
     ```bash
-    git clone https://github.com/AdeshGhadage/Chess.git
+    git clone https://github.com/Dipanshu1638/ChessMaster.git
     ```
 
 2. **Install MongoDB:**
